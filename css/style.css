@@ -1,0 +1,188 @@
+.carousel-item {
+    height:32rem;
+    background:#757272;
+    color:white;
+    position: relative;
+    background-position:center;
+    background-size: cover;
+    
+    
+}
+.container {
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    padding-bottom: 50px;
+
+}
+.container > h1 {
+    color: rgb(189, 212, 200);
+    text-shadow: black;
+    
+}
+.responsive {
+    width:100%;
+    max-width:2859px ;
+    height:100%;
+    max-height:1500px ;
+    position: absolute;
+
+}
+body {
+    background-image: url(/img/travelbackg.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1 > span {
+    background-color: black;
+    border-radius: 5px;
+    background-size:15px,15px,15px,15px ;
+}
+.nav-item {
+    font-size: 20px;
+    padding-right: 15px;
+  
+}
+.navbar-brand{
+    font-size: 50px;
+    padding-left: 30px;
+
+}
+.Destinationspage{
+    margin-top: 50px;
+    margin-left: 400px ;
+    margin-right: 400px;
+    text-align: center;
+    font-size: 70px;
+    color: rgb(255, 247, 247);
+    background: black;
+    border: #024980;
+    border-radius: 10px ;
+
+}
+.containerdestination{
+    display: flex;
+
+}
+.img-col{
+    width: fit-content;
+}
+   
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+ 
+
+ .container-fluid {
+     overflow: hidden;
+     margin-top: 80px;
+     background: #0e0d0d;
+     color: #024980 !important;
+     margin-bottom: 0;
+     padding-bottom: 0
+ }
+
+ small {
+     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .bold-text {
+     color: #989c9e !important
+ }
+
+ .mt-55 {
+     margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ h3 {
+     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .social {
+     font-size: 21px !important
+ }
+
+ .rights {
+     font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+ .centerbody{
+     color: ivory;
+     background-color: black;
+     opacity: 0.8 ;
+ }
+     
+ .centerbody{
+     margin: 30px;
+     padding: 5px;
+     
+ }
+.col {
+    padding:1rem;
+    background-color: blue;
+    border: 2px solid black;
+    color: brown;
+    text-align: center;
+}
+
+.customer-input {
+    background-color: black;
+    margin-left: 30px;
+    margin-right: 2085px;
+    padding: 25px;
+    background-size:15px,15px,15px,15px ;
+}
+.destcenter {
+    background-color: black;
+    opacity: 0.8;
+}
+.featurette-heading {
+    font-size:70px;
+    color: rgb(255, 255, 255);
+}
+.lead {
+    font-size: 45px ;
+    color: rgb(255, 255, 255);
+    margin-right: 15px;
+}
+.packagedeal{
+    background-color: black;
+    opacity: 0.8;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.client-info{
+    background-color: rgb(219, 216, 25);
+    opacity: 0.8;
+    font-size: 60px;
+    color: rgb(24, 18, 18);
+}
+.homecenterhead{
+    font-size:70px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 45px;
+}
+.homemain{
+    font-size: 35px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin: 45px;
+}
+.aboutus{
+    font-size: 100px;
+    margin-top:100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.aboutuspage{
+    font-size: 45px;
+    background-color: black;
+    color:white;
+    padding: 15px;
+    margin-top: -10px;
+    margin-bottom: -50px;
+}
