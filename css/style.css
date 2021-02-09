@@ -30,7 +30,7 @@
 
 }
 body {
-    background-image: url(/img/travelbackg.jpg);
+    background-image: url(../img/travelbackg.jpg);
     background-size:cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
