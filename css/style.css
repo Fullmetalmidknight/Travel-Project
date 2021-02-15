@@ -142,11 +142,12 @@ h1 > span {
     margin:50px;
 }
 .featurette-heading {
-    font-size:70px;
+    font-size:60px;
     color: rgb(255, 255, 255);
+    overflow: hidden;
 }
 .lead {
-    font-size: 45px ;
+    font-size: 30px ;
     color: rgb(255, 255, 255);
     margin-right: 15px;
 }
