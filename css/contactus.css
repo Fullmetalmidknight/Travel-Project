@@ -41,12 +41,12 @@ h1 > span {
     background-size:15px,15px,15px,15px ;
 }
 .nav-item {
-    font-size: 20px;
+    font-size:15px;
     padding-right: 15px;
   
 }
 .navbar-brand{
-    font-size: 50px;
+    font-size: 30px;
     padding-left: 30px;
 
 }
